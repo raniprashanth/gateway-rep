@@ -1,2 +1,4 @@
 this my first test file. achieving load balancing in a wireless mesh network in cloud computing 
+add gateways
+add routers
 this is the load balancing algorithm
